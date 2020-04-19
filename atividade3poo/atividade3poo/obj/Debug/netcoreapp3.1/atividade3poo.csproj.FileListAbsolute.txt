@@ -1,0 +1,11 @@
+C:\Users\victo\OneDrive\Área de Trabalho\atividade3poo\atividade3poo\obj\Debug\netcoreapp3.1\atividade3poo.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\atividade3poo\atividade3poo\obj\Debug\netcoreapp3.1\atividade3poo.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\atividade3poo\atividade3poo\obj\Debug\netcoreapp3.1\atividade3poo.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\atividade3poo\atividade3poo\bin\Debug\netcoreapp3.1\atividade3poo.exe
+C:\Users\victo\OneDrive\Área de Trabalho\atividade3poo\atividade3poo\bin\Debug\netcoreapp3.1\atividade3poo.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\atividade3poo\atividade3poo\bin\Debug\netcoreapp3.1\atividade3poo.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\atividade3poo\atividade3poo\bin\Debug\netcoreapp3.1\atividade3poo.runtimeconfig.dev.json
+C:\Users\victo\OneDrive\Área de Trabalho\atividade3poo\atividade3poo\bin\Debug\netcoreapp3.1\atividade3poo.dll
+C:\Users\victo\OneDrive\Área de Trabalho\atividade3poo\atividade3poo\bin\Debug\netcoreapp3.1\atividade3poo.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\atividade3poo\atividade3poo\obj\Debug\netcoreapp3.1\atividade3poo.dll
+C:\Users\victo\OneDrive\Área de Trabalho\atividade3poo\atividade3poo\obj\Debug\netcoreapp3.1\atividade3poo.pdb

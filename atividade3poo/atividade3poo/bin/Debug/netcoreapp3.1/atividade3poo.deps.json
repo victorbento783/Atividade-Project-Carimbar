@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "atividade3poo/1.0.0": {
+        "runtime": {
+          "atividade3poo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atividade3poo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
